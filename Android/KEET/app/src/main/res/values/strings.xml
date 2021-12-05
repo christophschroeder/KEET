@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">KEET</string>
+    <string name="app_name" translatable="false">KEET</string>
+    <string name="ki_value">KI Value</string>
+    <string name="app_version" translatable="false">1.0.0</string>
 </resources>
